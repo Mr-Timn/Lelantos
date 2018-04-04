@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Lelantos Setup", "Lelantos Setup\Lelantos Setup.vdproj", "{B4BEDA00-7B26-4130-A941-8FFF3E77A7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BEDA00-7B26-4130-A941-8FFF3E77A7CC}.Debug|Default.ActiveCfg = Debug
+		{B4BEDA00-7B26-4130-A941-8FFF3E77A7CC}.Debug|Default.Build.0 = Debug
+		{B4BEDA00-7B26-4130-A941-8FFF3E77A7CC}.Release|Default.ActiveCfg = Release
+		{B4BEDA00-7B26-4130-A941-8FFF3E77A7CC}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9073440A-EE33-4C20-A93D-555EFFC2E26F}
+	EndGlobalSection
+EndGlobal
