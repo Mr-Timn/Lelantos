@@ -1,4 +1,6 @@
+This is my first major C++ project. It was later moved to a GUI application (Lelntos v2)
 
+------------------------------------------------------------------------------
 
 Lelantos, the son of Coeus and Phoebe, whose name means "something that
 goes unobserved", is the Greek Titan god of air, hunter's skill of stalking
@@ -28,8 +30,3 @@ TODO
 	* Have bp.exe run on startup
 	* Remove directory from list if it no longer exists
 	* Add option to drag folder to add it to list of directories
-	
-	Possibly 
-		* Create another process to open bp.exe if it is stopped and vise
-		  versa cause virus logic!
-		* Create windows application 
